@@ -1,0 +1,18 @@
+.photo-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    justify-content: center;
+}
+  
+.photo-item {
+    width: 150px;
+    text-align: center;
+}
+  
+.photo-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+  
